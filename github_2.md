@@ -1,7 +1,7 @@
 # 1.个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
-  new repsitory       新仓库
-  import repository   导入库 
-  new gist            代码片段
+  new repsitory       新仓库  
+  import repository   导入库   
+  new gist            代码片段  
   new organization    新的组织
 # 2.如何能将仓库中的html文件直接解析成页面？
   仓库中的settings中github pages
